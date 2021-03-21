@@ -32,8 +32,10 @@ li a:hover {
   background-color: rgb(236, 154, 154);
 }
 
-
-
+h1{
+  color: rgb(160, 73, 87);
+  text-align: center;
+}
 
 
 h3 {
